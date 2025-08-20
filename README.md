@@ -9,11 +9,15 @@ This repo contains resources referenced in:
 
 <hr/>
 
-Resources:
-* Session slides
+* [Session presentation slides](./SVS320_terraform_for_serverless.pdf?raw=true)
+
+
+### Resources
+
+* [Slides](tbd)
 * Effectively building AI agents on AWS Serverless ([blog](https://aws.amazon.com/blogs/compute/effectively-building-ai-agents-on-aws-serverless/))
-* Building AI Agents on AWS with Strands Agents SDK ([webinar](https://youtu.be/OuiUEPO7PB8), [slides](asd))
-* Building MCP Servers on AWS ([webinar](https://youtu.be/q3JgDJPeXJY), [slides](asd)
+* Building AI Agents on AWS with Strands Agents SDK ([webinar](https://youtu.be/OuiUEPO7PB8), [slides](./2025-07-23-building-serverless-ai-agents-on-aws-with-strands-agents-sdk.pdf?raw=true))
+* Building MCP Servers on AWS ([webinar](https://youtu.be/q3JgDJPeXJY), [slides](./2025-08-14-building-serverless-mcp-servers-on-aws.pdf?raw=true))
 * Strands Agents SDK ([docs](https://strandsagents.com/latest/))
 * Amazon Bedrock AgentCore ([preview](https://aws.amazon.com/bedrock/agentcore/))
 * Sample MCP servers on AWS ([github](https://github.com/aws-samples/sample-serverless-mcp-servers))
