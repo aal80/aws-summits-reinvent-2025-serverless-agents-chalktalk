@@ -7,11 +7,6 @@ This repo contains resources referenced in:
 * AWS Summit Toronto 2025 - SVS201
 * AWS Summit Los Angeles 2025 - SVS203
 
-<hr/>
-
-* [Session presentation slides](./SVS320_terraform_for_serverless.pdf?raw=true)
-
-
 ### Resources
 
 * [Slides](tbd)
