@@ -6,7 +6,7 @@ Agentic AI is transforming enterprise applications, but taking it from prototype
 
 This repo contains resources referenced in:
 
-* AWS Summit Toronto 2025 - SVS201 [slides](./aws-summit-toronto-2025-building-production-ready-agentic-ai-architectures-with-serverless.pdf?raw=true)
+* AWS Summit Toronto 2025 - SVS201 ([slides](./aws-summit-toronto-2025-building-production-ready-agentic-ai-architectures-with-serverless.pdf?raw=true))
 * AWS Summit Los Angeles 2025 - SVS203
 
 ### Resources
