@@ -11,7 +11,9 @@ This repo contains resources referenced in:
 
 ### Resources
 
-* [Slides](tbd)
+
+
+* [Slides](./aws-summit-toronto-2025-building-production-ready-agentic-ai-architectures-with-serverless.pdf?raw=true)
 * Effectively building AI agents on AWS Serverless ([blog](https://aws.amazon.com/blogs/compute/effectively-building-ai-agents-on-aws-serverless/))
 * Building AI Agents on AWS with Strands Agents SDK ([webinar](https://youtu.be/OuiUEPO7PB8), [slides](./2025-07-23-building-serverless-ai-agents-on-aws-with-strands-agents-sdk.pdf?raw=true))
 * Building MCP Servers on AWS ([webinar](https://youtu.be/q3JgDJPeXJY), [slides](./2025-08-14-building-serverless-mcp-servers-on-aws.pdf?raw=true))
