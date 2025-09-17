@@ -7,8 +7,8 @@ Agentic AI is transforming enterprise applications, but taking it from prototype
 This repo contains resources referenced in:
 
 * AWS Summit Toronto 2025 - SVS201 ([slides](./aws-summit-toronto-2025-building-production-ready-agentic-ai-architectures-with-serverless.pdf?raw=true))
-* AWS Summit Los Angeles 2025 - SVS203
-* AWS re:Invent 2025 - CNS425
+* AWS Summit Los Angeles 2025 - SVS203 ([slides](./aws-summit-logangeles-2025-building-production-ready-agentic-ai-architectures-with-serverless.pdf?raw=true))
+* AWS re:Invent 2025 - CNS425 (TBD)
 
 ### Resources
 
@@ -19,6 +19,7 @@ This repo contains resources referenced in:
 * Amazon Bedrock AgentCore ([preview](https://aws.amazon.com/bedrock/agentcore/))
 * Sample MCP servers on AWS ([github](https://github.com/aws-samples/sample-serverless-mcp-servers))
 * E2E sample Travel Agent on Lambda ([github](https://github.com/aws-samples/sample-serverless-mcp-servers/tree/main/strands-agent-on-lambda))
+* Deploying serverless AI agents on AWS with Terraform and securing them with HCP Vault ([blog](https://www.hashicorp.com/en/resources/deploying-serverless-ai-agents-on-aws-with-terraform-and-securing-them-with-hcp-v))
 
 
 
