@@ -19,6 +19,7 @@ This repo contains resources referenced in:
 * Amazon Bedrock AgentCore ([preview](https://aws.amazon.com/bedrock/agentcore/))
 * Sample MCP servers on AWS ([github](https://github.com/aws-samples/sample-serverless-mcp-servers))
 * E2E sample Travel Agent on Lambda ([github](https://github.com/aws-samples/sample-serverless-mcp-servers/tree/main/strands-agent-on-lambda))
+* From authentication to identity propagation: Securing serverless AI agents and MCP servers on AWS with Okta ([blog](https://www.okta.com/blog/ai/securing-serverless-ai-agents-and-mcp-servers-on-aws-with-okta/))
 * Deploying serverless AI agents on AWS with Terraform and securing them with HCP Vault ([blog](https://www.hashicorp.com/en/resources/deploying-serverless-ai-agents-on-aws-with-terraform-and-securing-them-with-hcp-v))
 
 
